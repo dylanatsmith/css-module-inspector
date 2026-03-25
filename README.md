@@ -2,6 +2,9 @@
 
 Hover over `styles.className` in TSX/JSX files to see the applied CSS rules inline — no need to open the `.module.css` file.
 
+<img width="861" height="286" alt="image" src="https://github.com/user-attachments/assets/5f0d73b2-2a6b-4ad5-b24f-605b8f9e9d82" />
+
+
 ## Features
 
 - **Hover preview**: Hover any `styles.className` or `styles['class-name']` inside a `className` prop (or anywhere in the file) to see the resolved CSS rules in a tooltip.
